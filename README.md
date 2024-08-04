@@ -30,3 +30,17 @@ Printed the model coefficients to understand the impact of each feature.
 Test Data Predictions:
 Loaded the test dataset, prepared it, and made predictions.
 Saved the predictions to a CSV file.
+
+
+Summary
+The code demonstrates the following steps:
+
+Extract the dataset from a zip file.
+Load and preview the data.
+Select specific features and the target variable.
+Split the data into training and testing sets.
+Train a linear regression model.
+Predict and evaluate the model’s performance.
+Print model coefficients.
+Load and prepare test data.
+Predict and save the results to a CSV file.
